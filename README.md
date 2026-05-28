@@ -1,6 +1,6 @@
 # CubicDoggo Mk-II: Upgrade with Mechanical Reinforcement
 
-Derived from <a href="https://github.com/SphericalCowww/CubicDoggo">GitHub</a>. The goal is to upgrade the 3D-printed  structural support such that the feet can be lifted off the ground during walk gait. Also testing out options to use other servos.
+Derived from <a href="https://github.com/SphericalCowww/CubicDoggo">GitHub</a>. The goal is to upgrade the 3D-printed  structural support such that the feet can be lifted off the ground during the walk gait. Also testing options using other servos.
 
 
 ### The weak point
